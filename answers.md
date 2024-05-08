@@ -6,44 +6,44 @@
 ## Section 1
 
 
-1. An Ancient Greek philosopher is known by the nickname “Plato”, meaning “broad”. What was his birth name?
-	- Aristocles
-
-
-2. Which American general, based in Brisbane during World War 2, received an honorary doctorate from UQ and is the namesake of a shopping centre in the CBD?
+1. Which American general, based in Brisbane during World War 2, received an honorary doctorate from UQ and is the namesake of a shopping centre in the CBD?
 	- Douglas Macarthur
 
 
-3. In the Dune novels, the Butlerian Jihad is a war against what sort of enemy?
+2. In the Dune novels, the Butlerian Jihad is a war against what sort of enemy?
 	- Thinking machines
 
 
-4. Romulus was the first king of Rome. Who was its last?
+3. Romulus was the first king of Rome. Who was its last?
 	- Lucius Tarquinius Superbus or Tarquin the Proud
 
 
-5. Telugu and Tamil are languages in which primary language family?
+4. Telugu and Tamil are languages in which primary language family?
 	- Dravidian
 
 
-6. Which city in Germany was under the DDR known as Karl-Marx-Stadt?
+5. Which city in Germany was under the DDR known as Karl-Marx-Stadt?
 	- Chemnitz
 
 
-7. Katalin Karikó and Drew Weissman shared the Nobel Prize in Physiology or Medicine last year for their work on which technology?
+6. Katalin Karikó and Drew Weissman shared the Nobel Prize in Physiology or Medicine last year for their work on which technology?
 	- mRNA vaccines; strictly, “for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19”
 
 
-8. Who is the most recent Australian to have won a Fields Medal?
+7. Who is the most recent Australian to have won a Fields Medal?
 	- Akshay Venkatesh
 
 
-9. Which is the largest university in Australia by total enrollment?
+8. Which is the largest university in Australia by total enrollment?
 	- Monash University
 
 
-10. What is the smallest Australian federal electorate by area?
+9. What is the smallest Australian federal electorate by area?
 	- Grayndler
+
+
+10. An Ancient Greek philosopher, born with the name Aristocles, is better known by which nickname meaning “broad”. 
+	- Plato
 
 
 

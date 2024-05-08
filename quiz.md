@@ -5,34 +5,34 @@
 ## Section 1
 
 
-1. An Ancient Greek philosopher is known by the nickname "Plato", meaning "broad". What was his birth name?
+1. Which American general, based in Brisbane during World War 2, received an honorary doctorate from UQ and is the namesake of a shopping centre in the CBD?
 
 
-2. Which American general, based in Brisbane during World War 2, received an honorary doctorate from UQ and is the namesake of a shopping centre in the CBD?
+2. In the Dune novels, the Butlerian Jihad is a war against what sort of enemy?
 
 
-3. In the Dune novels, the Butlerian Jihad is a war against what sort of enemy?
+3. Romulus was the first king of Rome. Who was its last?
 
 
-4. Romulus was the first king of Rome. Who was its last?
+4. Telugu and Tamil are languages in which primary language family?
 
 
-5. Telugu and Tamil are languages in which primary language family?
+5. Which city in Germany was under the DDR known as Karl-Marx-Stadt?
 
 
-6. Which city in Germany was under the DDR known as Karl-Marx-Stadt?
+6. Katalin Karik and Drew Weissman shared the Nobel Prize in Physiology or Medicine last year for their work on which technology?
 
 
-7. Katalin Karik and Drew Weissman shared the Nobel Prize in Physiology or Medicine last year for their work on which technology?
+7. Who is the most recent Australian to have won a Fields Medal?
 
 
-8. Who is the most recent Australian to have won a Fields Medal?
+8.  Which is the largest university in Australia by total enrollment?
 
 
-9. Which is the largest university in Australia by total enrollment?
+9. What is the smallest Australian federal electorate by area?
 
 
-10. What is the smallest Australian federal electorate by area?
+10. An Ancient Greek philosopher, born with the name Aristocles, is better known by which nickname meaning “broad”. 
 
 
 
