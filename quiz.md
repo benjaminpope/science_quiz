@@ -55,7 +55,7 @@
 5. Which prominent Australian modernist architect designed the Hilton in Brisbane CBD?
 
 
-6. 10 Things I Hate About You is an adaptation of which Shakespeare play?
+6. *10 Things I Hate About You* is an adaptation of which Shakespeare play?
 
 
 7. The Brisbane Lions came about after a merger between the Brisbane Bears and which Melbourne football club?
@@ -74,7 +74,7 @@
 ## Section 3
 
 
-1. Which Palestinian poet was best known for his poem If I must Die?
+1. Which Palestinian poet was best known for his poem *If I must Die*?
 
 
 2. Which hills in the Flinders Ranges of South Australia give their name to a geological period and Precambrian fossil assemblage?
@@ -83,7 +83,7 @@
 3. Which modern European capital was known to the Romans as Lutetia?
 
 
-4. The Netherlands was the first country to legislate to allow same-sex marriage. In what year did this take effect?
+4. Which was the first country to legislate same-sex marriage, in 2001?
 
 
 5. The musical Six follows the lives of which eponymous six historical figures?

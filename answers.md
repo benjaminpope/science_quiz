@@ -70,8 +70,8 @@
 	- Harry Seidler
 
 
-6. 10 Things I Hate About You is an adaptation of which Shakespeare play?
-	- Taming of the Shrew
+6. *10 Things I Hate About You* is an adaptation of which Shakespeare play?
+	- *Taming of the Shrew*
 
 
 7. The Brisbane Lions came about after a merger between the Brisbane Bears and which Melbourne football club?
@@ -106,8 +106,8 @@
 	- Paris
 
 
-4. The Netherlands was the first country to legislate to allow same-sex marriage. In what year did this take effect?
-	- 2001 (legislated in 2000)
+4. Which was the first country to legislate for same-sex marriage, in 2001?
+	- The Netherlands
 
 
 5. The musical Six follows the lives of which eponymous six historical figures?
