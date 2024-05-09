@@ -55,7 +55,7 @@
 5. Which prominent Australian modernist architect designed the Hilton in Brisbane CBD?
 
 
-6. *10 Things I Hate About You* is an adaptation of which Shakespeare play?
+6. *10 Things I Hate About You* is an adaptation of which Shakespeare play? 
 
 
 7. The Brisbane Lions came about after a merger between the Brisbane Bears and which Melbourne football club?
